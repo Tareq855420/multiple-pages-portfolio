@@ -1,4 +1,4 @@
 # multiple-pages-portfolio
 
-## A multiple page's portfolio built by using HTML, CSS & Sass
+## This is my personal portfolio site. In this site you will know about me and my work. This website is created by using HTML, CSS and SASS.
 ### Site link: https://tareq855420.github.io/multiple-pages-portfolio/
